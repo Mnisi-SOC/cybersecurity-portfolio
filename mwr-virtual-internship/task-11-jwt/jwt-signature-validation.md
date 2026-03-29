@@ -37,7 +37,8 @@ eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9...
 I used jwt.io to decode the token.
 ### Decoded Payload
 ```JSON
-{ "username": "user",
+{
+"username": "user",
 "password": "password1",
 "admin": 0,
 "flag": "THM{c64473e0-aca8-4827-8f50-1bb747da6257}"
